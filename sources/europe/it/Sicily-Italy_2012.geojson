@@ -1,16 +1,27 @@
 {
     "type": "Feature",
     "properties": {
-        "id": "Sicily-ATA2007",
-        "url": "http://map.sitr.regione.sicilia.it/ArcGIS/services/WGS84_F33/Ortofoto_ATA20072008_f33/MapServer/WMSServer?FORMAT=image/jpeg&VERSION=1.1.1&SERVICE=WMS&REQUEST=GetMap&Layers=0&STYLES=default&SRS={proj}&WIDTH={width}&HEIGHT={height}&BBOX={bbox}",
+        "id": "Sicily-ATA2012",
+        "url": "http://map.sitr.regione.sicilia.it/gis/services/ATA_2012_2013/Ortofoto_ATA_2012_2013/MapServer/WMSServer?LAYERS=0&STYLES=default&FORMAT=image/jpeg&CRS={proj}&WIDTH={width}&HEIGHT={height}&BBOX={bbox}&VERSION=1.3.0&SERVICE=WMS&REQUEST=GetMap",
         "type": "wms",
-        "name": "Sicily - Italy",
+        "name": "Sicily 2012",
         "country_code": "IT",
+        "start_date": "2012",
+        "end_date": "2013",
         "available_projections": [
-            "EPSG:4326",
+            "CRS:84",
+            "EPSG:102100",
             "EPSG:3857",
-            "EPSG:32633"
-        ]
+            "EPSG:4326"
+        ],
+        "attribution": {
+            "text": "© Regione Siciliana - SITR CC BY-SA 3.0 IT",
+            "url": "http://www.sitr.regione.sicilia.it",
+            "required": true
+        },
+        "license_url": "http://www.sitr.regione.sicilia.it/geoportale/it/Home/Terms",
+        "privacy_policy_url": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Privacy",
+        "category": "photo"
     },
     "geometry": {
         "type": "Polygon",
