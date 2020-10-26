@@ -12,14 +12,14 @@ check: scripts/check.py $(SOURCES)
 clean:
 	rm -f $(ALL)
 
-imagery.xml: scripts/convert_xml.py $(SOURCES)
-	@$(PYTHON) $< $(SOURCES_QUOTED)
+imagery.xml:
+	@$(PYTHON) scripts/convert_xml.py sources
 
 imagery.json: scripts/convert_geojson_to_legacyjson.py $(SOURCES)
 	@$(PYTHON) $< $(SOURCES_QUOTED) > $@
 
-imagery.geojson: scripts/concat_geojson.py $(SOURCES)
-	@$(PYTHON) $< $(SOURCES_QUOTED) > $@
+imagery.geojson:
+	@$(PYTHON) scripts/concat_geojson.py sources
 
 i18n/en.yaml: scripts/extract_i18n.py $(SOURCES)
 	@$(PYTHON) $< $(SOURCES_QUOTED) > $@

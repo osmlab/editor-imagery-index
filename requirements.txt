@@ -1,5 +1,5 @@
 jsonschema==3.2.0
-pyyaml>=5.3.1
+pyyaml==5.3.1
 transifex-client==0.13.11
 colorlog==4.2.1
 requests==2.24.0
@@ -7,3 +7,4 @@ shapely==1.7.0
 mercantile==1.1.5
 owslib==0.20.0
 validators==0.17.1
+lxml==4.6.0
