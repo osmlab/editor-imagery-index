@@ -1,25 +1,31 @@
 {
-    "type": "Feature",
-    "properties": {
-        "id": "poznan-ortofotomapa2014",
-        "name": "Poznań: Orthophotomap 2014 (aerial image)",
-        "type": "wms",
-        "url": "http://wms1.geopoz.poznan.pl:6080/arcgis/services/sip/ortofotomapa_2014/MapServer/WmsServer?FORMAT=image/jpeg&VERSION=1.1.1&SERVICE=WMS&REQUEST=GetMap&LAYERS=ortofotomapa_2014_image&STYLES=&SRS={proj}&WIDTH={width}&HEIGHT={height}&BBOX={bbox}",
-        "start_date": "2014",
-        "end_date": "2014",
-        "country_code": "PL",
-        "available_projections": [
-            "EPSG:4326",
-            "EPSG:2177",
-            "EPSG:2180",
-            "EPSG:3857"
-        ],
-        "attribution": {
-            "text": "Zarząd Geodezji i Katastru Miejskiego GEOPOZ"
-        },
-        "max_zoom": 23,
-        "category": "historicphoto"
+  "type": "Feature",
+  "properties": {
+    "id": "poznan-ortofotomapa2014",
+    "name": "Poznań: Orthophotomap 2014 (aerial image)",
+    "type": "wms",
+    "url": "http://wms1.geopoz.poznan.pl/arcgis/services/sip/ortofotomapy/MapServer/WMSServer?LAYERS=ortofotomapa_2014_image&STYLES=default&FORMAT=image/jpeg&CRS={proj}&WIDTH={width}&HEIGHT={height}&BBOX={bbox}&VERSION=1.3.0&SERVICE=WMS&REQUEST=GetMap",
+    "license_url": "https://bip.geopoz.poznan.pl/gpb/ponowne-wykorzystywanie/136,Ponowne-wykorzystywanie-informacji-sektora-publicznego.html",
+    "privacy_policy_url": "https://bip.geopoz.poznan.pl/gpb/ochrona-danych-osobowyc/1334,Ochrona-danych-osobowych.html",
+	"icon": "https://osmlab.github.io/editor-layer-index/sources/europe/pl/geopoz-logo.png",
+    "logo-image": "https://osmlab.github.io/editor-layer-index/sources/europe/pl/geopoz-logo.png",
+	"category": "historicphoto",
+	"start_date": "2014",
+    "end_date": "2014",
+    "country_code": "PL",
+    "available_projections": [
+        "CRS:84",
+        "EPSG:102100",
+        "EPSG:2177",
+        "EPSG:2180",
+        "EPSG:3857",
+        "EPSG:4326"
+    ],
+    "attribution": {
+      "text": "Zarząd Geodezji i Katastru Miejskiego GEOPOZ"
     },
+    "max_zoom": 23
+  },
     "geometry": {
         "type": "Polygon",
         "coordinates": [
