@@ -1,24 +1,23 @@
 {
     "type": "Feature",
     "properties": {
-        "id": "CT_ECO_Ortho_2019_RGB",
+        "id": "CT_ECO_Ortho_2023_RGB",
         "attribution": {
             "url": "https://cteco.uconn.edu/data/imagery/index.htm",
             "text": "Connecticut Environmental Conditions Online",
             "required": false
         },
-        "name": "CT ECO Orthoimagery (2019)",
+        "name": "CT ECO Orthoimagery (2023)",
         "icon": "https://cteco.uconn.edu/images/logos/cteco-logo.png",
-        "url": "https://cteco.uconn.edu/ctraster/rest/services/images/Ortho_2019_tiled/ImageServer/WMTS/tile/1.0.0/images_Ortho_2019_tiled/default/default028mm/{zoom}/{y}/{x}",
-        "min_zoom": 6,
+        "url": "https://cteco.uconn.edu/ctraster/rest/services/images/Ortho_2023_tiled/ImageServer/tile/{zoom}/{y}/{x}",
         "max_zoom": 20,
-        "license_url": "https://cteco.uconn.edu/metadata/dep/document/ortho_2019_fgdc_plus.htm",
+        "license_url": "https://osmlab.github.io/editor-layer-index/sources/north-america/us/ct/CTECO.pdf",
         "country_code": "US",
         "type": "tms",
-        "start_date": "2019-03-24",
-        "end_date": "2019-04-25",
-        "description": "The 2019 6-inch 4-band orthoimagery for the State of Connecticut in natural color",
-        "category": "historicphoto",
+        "start_date": "2023",
+        "end_date": "2023",
+        "description": "The 2023 6-inch 4-band orthoimagery for the State of Connecticut in natural color",
+        "category": "photo",
         "valid-georeference": true,
         "privacy_policy_url": "https://uconn.edu/disclaimers-privacy-copyright/"
     },
