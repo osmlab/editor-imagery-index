@@ -1,0 +1,39 @@
+{
+    "type": "Feature",
+    "properties": {
+        "id": "maxar-2019-nairobi",
+        "name": "Maxar 2019 Nairobi",
+        "type": "tms",
+        "url": "https://tiles.openaerialmap.org/5ea27d04411bed00056803c5/0/5ea27d04411bed00056803c6/{zoom}/{x}/{y}",
+        "country_code": "KE",
+        "attribution": {
+            "url": "https://map.openaerialmap.org/#/36.90238952636719,-1.323048298656767,11/square/300110102230/5ea29a2e411bed00056803c9?_k=wuqpun",
+            "text": "Contributors of Open Imagery Network"
+        },
+        "icon": "https://de.wikipedia.org/wiki/OpenAerialMap#/media/Datei:OpenAerialMap_logo.svg",
+        "min_zoom": 10,
+        "max_zoom": 22,
+        "license_url": "https://openaerialmap.org/legal/",
+        "privacy_policy_url": false,
+        "description": "Maxar 2019 Nairobi mosaic imagery, provided by OpenAerialMap.",
+        "category": "photo"
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [36.633077, -1.461151],
+                [36.677815, -1.461152],
+                [36.795806, -1.418953],
+                [36.795809, -1.349793],
+                [36.87699, -1.349792],
+                [36.920826, -1.507044],
+                [37.04004, -1.507047],
+                [37.040034, -1.232554],
+                [37.00087, -1.135087],
+                [36.633077, -1.135087],
+                [36.633077, -1.461151]
+            ]
+        ]
+    }
+}
