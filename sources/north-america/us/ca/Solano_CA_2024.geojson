@@ -1,23 +1,23 @@
 {
     "type": "Feature",
     "properties": {
-        "id": "Solano_CA_2023",
+        "id": "Solano_CA_2024",
         "attribution": {
             "url": "https://www.solanocounty.com/",
             "text": "Solano County",
             "required": false
         },
-        "name": "Solano County Orthoimagery (2023)",
+        "name": "Solano County Orthoimagery (2024)",
         "icon": "https://www.solanocounty.com/images/depts/CountyAdministrator/TransparentGIF(400x400).gif",
-        "url": "https://tiles.arcgis.com/tiles/SCn6czzcqKAFwdGU/arcgis/rest/services/Aerial2023_WGS84_ESRI_Aux/MapServer/tile/{zoom}/{y}/{x}",
+        "url": "https://tiles.arcgis.com/tiles/SCn6czzcqKAFwdGU/arcgis/rest/services/Aerial2024_WGS84/MapServer/tile/{zoom}/{y}/{x}",
         "max_zoom": 21,
         "license_url": "https://wiki.openstreetmap.org/wiki/California#Publicly_Available_Data",
         "country_code": "US",
         "type": "tms",
-        "start_date": "2023",
-        "end_date": "2023",
-        "description": "2023 3 inch resolution imagery for Solano County in the State of California",
-        "category": "historicphoto",
+        "start_date": "2024",
+        "end_date": "2024",
+        "description": "2024 3 inch resolution imagery for Solano County in the State of California",
+        "category": "photo",
         "privacy_policy_url": "https://www.esri.com/en-us/privacy/overview"
     },
     "geometry": {
