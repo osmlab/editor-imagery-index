@@ -1,15 +1,15 @@
 {
     "type": "Feature",
     "properties": {
-        "id": "Modesto_CA_2023",
+        "id": "Modesto_CA_2024",
         "attribution": {
             "url": "https://www.modestogov.com/",
             "text": "City of Modesto",
             "required": false
         },
-        "name": "City of Modesto Orthoimagery (2023)",
+        "name": "City of Modesto Orthoimagery (2024)",
         "icon": "https://www.modestogov.com/ImageRepository/Document?documentID=15610",
-        "url": "https://gis.modestogov.com/hosting/rest/services/ExternalServices/City_of_Modesto_2023_Aerial/MapServer/export?f=image&format=jpg&bbox={bbox}&bboxSR={wkid}&imageSR={wkid}&size={width},{height}&foo={proj}",
+        "url": "https://gis.modestogov.com/hosting/rest/services/ExternalServices/City_of_Modesto_2024_Aerial/MapServer/export?f=image&format=jpg&bbox={bbox}&bboxSR={wkid}&imageSR={wkid}&size={width},{height}&foo={proj}",
         "max_zoom": 23,
         "license_url": "https://wiki.openstreetmap.org/wiki/California#Publicly_Available_Data",
         "country_code": "US",
@@ -18,10 +18,10 @@
             "CRS:84",
             "EPSG:3857"
         ],
-        "start_date": "2023",
-        "end_date": "2023",
-        "description": "2023 3-inch resolution imagery for Modesto in the State of California",
-        "category": "historicphoto",
+        "start_date": "2024",
+        "end_date": "2024",
+        "description": "2024 3-inch resolution imagery for Modesto in the State of California",
+        "category": "photo",
         "privacy_policy_url": "https://www.modestogov.com/privacy"
     },
     "geometry": {
