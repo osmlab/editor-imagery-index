@@ -24,6 +24,7 @@
         "description": "4-band natural color 6-inch resolution orthoimagery covering the entire State of Delaware in 2022",
         "category": "photo",
         "privacy_policy_url": "https://delaware.gov/privacy-policy/",
+        "best": true,
         "valid-georeference": true
     },
     "geometry": {
