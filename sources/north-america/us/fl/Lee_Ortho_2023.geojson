@@ -22,7 +22,7 @@
         "start_date": "2023-01-05",
         "end_date": "2023-01-29",
         "description": "The 2023 orthoimagery for Lee County of the State of Florida",
-        "category": "photo",
+        "category": "historicphoto",
         "valid-georeference": true,
         "privacy_policy_url": "https://www.leepa.org/PrivacyPolicy.aspx"
     },

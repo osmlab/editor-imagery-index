@@ -3,7 +3,7 @@ var map = L.map('map', {
         maxZoom: 25
     }).fitWorld();
 
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>'
 }).addTo(map);
 
@@ -44,7 +44,7 @@ function idURL(d, e) {
         editor: 'id',
         background: 'custom:' + d.properties.url
     };
-    return 'https://www.openstreetmap.org/edit?' + (new URLSearchParams(params)).toString() + position;
+    return 'https://www.openstreetmap.org/edit?' + position + (new URLSearchParams(params)).toString();
 }
 
 
