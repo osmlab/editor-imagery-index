@@ -19,8 +19,7 @@
         "permission_osm": "explicit",
         "description": "Open Data Orthoimagery from Nagaoka-shi, 2018",
         "category": "photo",
-        "valid-georeference": true,
-        "privacy_policy_url": false
+        "valid-georeference": true
       },
       "geometry": {
         "type": "Polygon",

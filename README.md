@@ -7,9 +7,7 @@ The goal of this project is to maintain a canonical representation of the layers
 * [iD](https://github.com/openstreetmap/iD)
 * [Vespucci](http://vespucci.io/)
 * [Go Map!!](https://wiki.openstreetmap.org/wiki/Go_Map!!)
-* [MapComplete](https://mapcomplete.org)
-* [Every Door](https://every-door.app/)
-* [Potlatch 3](https://www.systemed.net/potlatch/) and
+* [Potlatch 2](https://github.com/systemed/potlatch2) and
 * [JOSM](https://josm.openstreetmap.de/) (optional)
 
 Both imagery and other raster data that is useful for mapping are within scope of the project.

@@ -18,8 +18,7 @@
         "available_projections": [
             "CRS:84",
             "EPSG:3857",
-            "EPSG:4326",
-            "EPSG:26853"
+            "EPSG:4326"
         ],
         "start_date": "2023-03",
         "end_date": "2023-03",

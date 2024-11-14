@@ -21,8 +21,7 @@
         "end_date": "2019",
         "description": "4-band orthoimagery with 6-in pixel resolution for 367 sq mi and 1-ft pixel resolution (or less) for 785 sq mi within Mat-Su Borough (2019)",
         "category": "historicphoto",
-        "valid-georeference": true,
-        "privacy_policy_url": false
+        "valid-georeference": true
       },
       "geometry": {
         "type": "MultiPolygon",

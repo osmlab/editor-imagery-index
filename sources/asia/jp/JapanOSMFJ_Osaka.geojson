@@ -19,8 +19,7 @@
         "permission_osm": "explicit",
         "description": "Kokyo Sokuryo Orthoimagery from Osaka-shi, 2020",
         "category": "photo",
-        "valid-georeference": true,
-        "privacy_policy_url": false
+        "valid-georeference": true
       },
       "geometry": {
         "type": "Polygon",

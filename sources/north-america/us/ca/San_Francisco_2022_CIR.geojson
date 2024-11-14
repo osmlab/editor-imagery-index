@@ -1,7 +1,7 @@
 {
     "type": "Feature",
     "properties": {
-        "id": "San_Francisco_2022_CIR",
+        "id": "San_Francisco_CA_2022_CIR",
         "attribution": {
             "url": "https://www.sf.gov/",
             "text": "City and County of San Francisco",
@@ -17,7 +17,7 @@
         "type": "tms",
         "start_date": "2022",
         "end_date": "2022",
-        "description": "2022 3-inch resolution color infrared imagery for San Francisco in the State of California",
+        "description": "2022 3-inch resolution imagery for San Francisco in the State of California",
         "category": "historicphoto",
         "privacy_policy_url": "https://www.sf.gov/information/privacy-policy-sfgov"
     },

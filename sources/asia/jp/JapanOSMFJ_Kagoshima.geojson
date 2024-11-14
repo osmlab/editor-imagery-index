@@ -19,8 +19,7 @@
         "permission_osm": "explicit",
         "description": "Kokyo Sokuryo Orthoimagery from Kagoshima-shi, 2021",
         "category": "photo",
-        "valid-georeference": true,
-        "privacy_policy_url": false
+        "valid-georeference": true
       },
       "geometry": {
         "type": "Polygon",
