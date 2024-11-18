@@ -10,7 +10,7 @@
         "icon": "https://www.zesco.co.zm/assets/img/logo/new_logo_v2.png",
         "max_zoom": 22,
         "min_zoom": 7,
-        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "license_url": "https://energydata.info/dataset/zambia-overhead-mv-distribution-lines",
         "privacy_policy_url": "https://www.mapbox.com/legal/privacy",
         "description": "Overhead medium voltage gridlines mapped by ZESCO in Zambia. Data and licence source: https://energydata.info/dataset/zambia-overhead-mv-distribution-lines. Data access date: 02-Nov-2024. Tiles were generated using Mapbox Studio. Requests are proxied through Cloudflare.",
         "category": "other"
