@@ -1,16 +1,16 @@
 {
     "type": "Feature",
     "properties": {
-        "id": "PEMA_Orthoimagery_2021",
+        "id": "PEMA_Orthoimagery_2023",
         "attribution": {
             "url": "https://www.pema.pa.gov/911-Program/Partners/NG911-GIS/Aerial-Imagery/Pages/default.aspx",
             "text": "Pennsylvania Emergency Management Agency",
             "required": false
         },
-        "name": "PEMA Orthoimagery - Eastern (2021)",
-        "icon": "https://www.pema.pa.gov/PublishingImages/logo.svg",
-        "url": "https://imagery.pasda.psu.edu/arcgis/services/pasda/PEMAImagery2021/MapServer/WmsServer?request=getmap&version=1.3.0&service=wms&layers=1&styles=&format=image/jpeg&crs={proj}&width={width}&height={height}&bbox={bbox}",
-        "max_zoom": 18,
+        "name": "PEMA Orthoimagery Cycle 2 (2021-2023)",
+        "icon": "https://osmlab.github.io/editor-layer-index/sources/north-america/us/pa/PEMA.svg",
+        "url": "https://apps.pasda.psu.edu/arcgis/rest/services/PEMAImagery2021_2023/MapServer/export?f=image&format=jpg&bbox={bbox}&bboxSR={wkid}&imageSR={wkid}&size={width},{height}&foo={proj}",
+        "max_zoom": 20,
         "license_url": "https://wiki.openstreetmap.org/wiki/Pennsylvania/PEMA_Orthoimagery",
         "country_code": "US",
         "type": "wms",
@@ -20,8 +20,8 @@
             "EPSG:4326"
         ],
         "start_date": "2021",
-        "end_date": "2021",
-        "description": "High resolution orthoimagery for the Commonwealth of Pennsylvania (Eastern) captured in 2021",
+        "end_date": "2023",
+        "description": "PEMA Orthoimagery Cycle 2",
         "category": "photo",
         "valid-georeference": true,
         "privacy_policy_url": "https://www.psu.edu/legal-statements"
