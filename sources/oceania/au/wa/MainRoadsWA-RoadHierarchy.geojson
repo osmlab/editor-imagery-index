@@ -8,6 +8,7 @@
             "required": true
         },
         "license_url": "https://wiki.openstreetmap.org/wiki/Contributors#Main_Roads_.28state_government_agency.29",
+        "privacy_policy_url": "https://www.esri.com/en-us/privacy/overview",
         "name": "Main Roads WA Road Hierarchy",
         "available_projections": [
             "EPSG:4326",
