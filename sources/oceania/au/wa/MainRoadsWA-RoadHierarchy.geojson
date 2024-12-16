@@ -19,7 +19,8 @@
         "max_zoom": 21,
         "country_code": "AU",
         "type": "wms",
-        "category": "other"
+        "category": "other",
+        "icon": "https://www.mainroads.wa.gov.au//static/favicons/favicon-32x32.png"
     },
     "geometry": {
         "type": "Polygon",
