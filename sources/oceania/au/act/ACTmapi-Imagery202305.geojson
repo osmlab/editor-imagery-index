@@ -3,7 +3,7 @@
     "properties": {
         "id": "ACT202305",
         "attribution": {
-            "url": "http://actmapi.act.gov.au/terms.html",
+            "url": "https://www.actmapi.act.gov.au/home",
             "text": "Aerial Imagery from ACTMapi ©ACT Government and MetroMap",
             "required": true
         },
