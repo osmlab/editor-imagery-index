@@ -3,7 +3,7 @@
     "properties": {
         "id": "MainRoadsWA_Road_Hierarchy",
         "attribution": {
-            "url": "https://catalogue.data.wa.gov.au/dataset/clss-road-hierarchy",
+            "url": "https://portal-mainroads.opendata.arcgis.com/datasets/mainroads::road-hierarchy/about",
             "text": "Main Roads Western Australia",
             "required": true
         },
