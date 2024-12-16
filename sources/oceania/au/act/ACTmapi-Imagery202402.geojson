@@ -11,7 +11,6 @@
         "privacy_policy_url": "https://www.esri.com/en-us/privacy/overview",
         "name": "ACTmapi Imagery Feb 2024",
         "url": "https://tiles.arcgis.com/tiles/E5n4f1VY84i0xSjy/arcgis/rest/services/ACT_Aerial_Imagery_202402_AGOL_Compatible/MapServer/tile/{zoom}/{y}/{x}",
-        "best": true,
         "start_date": "2024-02",
         "end_date": "2024-02",
         "max_zoom": 21,
