@@ -1,7 +1,7 @@
 {
     "type": "Feature",
     "properties": {
-        "id": "ACT202309",
+        "id": "ACT202409",
         "attribution": {
             "url": "https://www.actmapi.act.gov.au/home",
             "text": "Aerial Imagery from ACTMapi ©ACT Government and MetroMap",
@@ -9,13 +9,14 @@
         },
         "license_url": "https://osmlab.github.io/editor-layer-index/sources/oceania/au/act/ACTmapi-Imagery.PDF",
         "privacy_policy_url": "https://www.esri.com/en-us/privacy/overview",
-        "name": "ACTmapi Imagery Sep 2023",
+        "name": "ACTmapi Imagery Sep 2024",
         "available_projections": [
             "EPSG:7855"
         ],
-        "url": "https://tiles.arcgis.com/tiles/E5n4f1VY84i0xSjy/arcgis/rest/services/ACT_Aerial_Imagery_202309/MapServer/WMTS/1.0.0/WMTSCapabilities.xml",
-        "start_date": "2023-09",
-        "end_date": "2023-09",
+        "url": "https://tiles.arcgis.com/tiles/E5n4f1VY84i0xSjy/arcgis/rest/services/ACT_Aerial_Imagery_202409/MapServer/WMTS/1.0.0/WMTSCapabilities.xml",
+        "best": true,
+        "start_date": "2024-09",
+        "end_date": "2024-09",
         "max_zoom": 21,
         "country_code": "AU",
         "type": "wmts",
