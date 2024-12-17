@@ -3,7 +3,7 @@
     "properties": {
         "id": "ACT202305",
         "attribution": {
-            "url": "http://actmapi.act.gov.au/terms.html",
+            "url": "https://www.actmapi.act.gov.au/home",
             "text": "Aerial Imagery from ACTMapi ©ACT Government and MetroMap",
             "required": true
         },
@@ -20,7 +20,7 @@
         "max_zoom": 21,
         "country_code": "AU",
         "type": "wmts",
-        "icon": "https://actmapi.act.gov.au/img/apple-touch-icon.png",
+        "icon": "https://www.actmapi.act.gov.au/__data/assets/file/0009/1174446/favicon.ico",
         "category": "photo",
         "min_zoom": 10
     },
