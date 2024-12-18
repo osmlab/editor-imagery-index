@@ -303,11 +303,21 @@ en:
       attribution:
         text: Urząd Miasta Gliwice
       name: 'Gliwice: Buildings'
-    LSA-ATKIS_BU:
+    LSA-ALKIS-CP:
+      attribution:
+        text: © GeoBasis-DE/LVermGeo LSA
+      description: Vectorial recording of parcels from the official real estate cadastre.
+      name: © GeoBasis-DE/LVermGeo LSA, ALKIS Cadastre parcels
+    LSA-ALKIS_BU:
       attribution:
         text: © GeoBasis-DE/LVermGeo LSA
       description: Shape of buildings in saxony-anhalt
-      name: © GeoBasis-DE/LVermGeo LSA, ATKIS_BU
+      name: © GeoBasis-DE/LVermGeo LSA, ALKIS Building Outlines
+    LSA-ATKIS-HYN:
+      attribution:
+        text: © GeoBasis-DE/LVermGeo LSA
+      description: Recording of water networks (may differ in accuracy from reality, always consider in connection with orthophoto)
+      name: © GeoBasis-DE/LVermGeo LSA, ATKIS Hydro Network
     LSA-DOP20:
       attribution:
         text: © GeoBasis-DE/LVermGeo LSA
@@ -317,7 +327,7 @@ en:
       attribution:
         text: © GeoBasis-DE/LVermGeo LSA
       description: 'Vector recording of administrative boundaries. The boundaries of the federal state, district, municipality and parts of the municipality are given. '
-      name: © GeoBasis-DE/LVermGeo LSA, DVG
+      name: © GeoBasis-DE/LVermGeo LSA, Digital administrative boundaries
     LocalAuthorities_RightsOfWay:
       attribution:
         text: Contains public sector information licensed under the Open Government Licence v3.0.
