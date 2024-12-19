@@ -18,6 +18,7 @@
             "url": "https://geoservices.ign.fr/services-web-experts-ortho",
             "required": true
         },
+        "icon": "https://www.ign.fr/files/default/styles/thumbnail/public/2020-06/logoIGN_300x200.png",
         "license_url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
         "privacy_policy_url": "https://www.ign.fr/institut/mentions-legales"
     },
