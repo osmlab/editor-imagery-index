@@ -8,6 +8,7 @@
         "name": "Henrico County Aerial Imagery (2024)",
         "type": "wms",
         "id": "Henrico_VA_2024",
+        "category": "photo",
         "start_date": "2024",
         "end_date": "2024"
       },
