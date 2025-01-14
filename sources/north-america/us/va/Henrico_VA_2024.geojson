@@ -10,7 +10,22 @@
         "id": "Henrico_VA_2024",
         "category": "historicphoto",
         "start_date": "2024",
-        "end_date": "2024"
+        "end_date": "2024",
+        "min_zoom": 1,
+        "max_zoom": 18,
+        "country_code": "US",
+        "attribution": {
+            "url": "https://henrico.gov/it/gis/",
+            "text": "Henrico County Government",
+            "required": false
+        },
+        "available_projections": [
+            "CRS:84",
+            "EPSG:2924",
+            "EPSG:3857"
+        ],
+        "license_url": "https://henrico.gov/transparency/terms-of-use/",
+        "privacy_policy_url": "https://henrico.gov/privacy-policy/"
       },
       "geometry": {
         "coordinates": [
