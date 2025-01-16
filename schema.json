@@ -1,5 +1,5 @@
 {
-    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$schema": "http://json-schema.org/draft-07/schema#",
     "id": "https://github.com/osmlab/editor-layer-index",
     "properties": {
         "type": {
@@ -9,10 +9,10 @@
             ]
         },
         "bbox": {
-            "$ref": "http://json.schemastore.org/geojson#/properties/bbox"
+            "$ref": "https://geojson.org/schema/GeoJSON.json#/properties/bbox"
         },
         "geometry": {
-            "$ref": "http://json.schemastore.org/geojson#/definitions/geometry"
+            "$ref": "https://geojson.org/schema/GeoJSON.json#/definitions/geometry"
         },
         "properties": {
             "type": "object",
