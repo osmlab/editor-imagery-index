@@ -135,7 +135,7 @@ en:
       attribution:
         text: Lechner Tudásközpont
       description: Goverment-based leaf-covered orthophotos with 40 cm/pixel resolution for the entire country. This layer should be used as an alignment base in lack of a more accurate reference. WEBP format images, JOSM needs a webp plugin for them.
-      name: FÖMI orthophoto 2011-2014 (WEBP)
+      name: FÖMI orthophoto 2011–2014 (WEBP)
     Frankfurt-am-Main-2019:
       attribution:
         text: Stadtvermessungsamt Frankfurt am Main
