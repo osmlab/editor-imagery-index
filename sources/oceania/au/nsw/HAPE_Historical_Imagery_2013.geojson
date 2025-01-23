@@ -1,0 +1,50 @@
+{
+    "type": "Feature",
+    "properties": {
+        "attribution": {
+            "url": "https://www.spatial.nsw.gov.au/",
+            "text": "© State of New South Wales (Spatial Services, a business unit of the Department of Customer Service NSW). For current information go to spatial.nsw.gov.au.",
+            "required": true
+        },
+        "license_url": "https://www.spatial.nsw.gov.au/copyright",
+        "privacy_policy_url": "https://www.spatial.nsw.gov.au/privacy",
+        "name": "NSW DCS SS HAPE Imagery 2013",
+        "url": "https://portal.spatial.nsw.gov.au/tileservices/Hosted/HistoricalImagery2013/MapServer/tile/{zoom}/{y}/{x}",
+        "max_zoom": 21,
+        "min_zoom": 1,
+        "start_date": "2013",
+        "end_date": "2013",
+        "country_code": "AU",
+        "type": "tms",
+        "id": "NSW_DCS_SS_HAPE_Imagery_2013",
+        "icon": "https://www.spatial.nsw.gov.au/__data/assets/file/0017/224801/favicon.ico",
+        "category": "historicphoto"
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    150.49484184265,
+                    -33.49044350121
+                ],
+                [
+                    151.01257255554,
+                    -33.49674239083
+                ],
+                [
+                    151.00639274597,
+                    -34.01054966913
+                ],
+                [
+                    150.49003532410,
+                    -34.00428841192
+                ],
+                [
+                    150.49484184265,
+                    -33.49044350121
+                ]
+            ]
+        ]
+    }
+}
