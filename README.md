@@ -1,6 +1,6 @@
 # OSM Editor Layer Index
 
-[![Build Status](https://github.com/osmlab/editor-layer-index/workflows/Deploy/badge.svg?branch=gh-pages)](https://github.com/osmlab/editor-layer-index/actions?query=branch%3Agh-pages+workflow%3ADeploy)
+[![Deploy](https://github.com/osmlab/editor-layer-index/actions/workflows/push.yml/badge.svg?branch=gh-pages)](https://github.com/osmlab/editor-layer-index/actions/workflows/push.yml)
 
 The goal of this project is to maintain a canonical representation of the layers available to [OpenStreetMap](https://www.openstreetmap.org/) editors such as:
 
